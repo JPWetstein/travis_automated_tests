@@ -4,4 +4,3 @@ rvm:
   - 2.1.0
 notifications:
   email: jpwetstein@taximagic.com
-  hipchat: feda73e41978f5b3df4de9ef4c40b6@JPaulWetstein
